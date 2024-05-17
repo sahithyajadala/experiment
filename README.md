@@ -186,7 +186,7 @@ fourcc is used to store the video in "MJPG"
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH) + 0.5)
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT) + 0.5)
 
-out = cv2.VideoWriter('sahithya.avi', fourcc, 20.0, size)
+out = cv2.VideoWriter('web_video1.avi', fourcc, 20.0, size)
 out is used to store the video web_video1.avi
 
 using while loop to capture the video frame
