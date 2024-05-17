@@ -196,6 +196,10 @@ The webcam stream will open, and you'll see the live video displayed in a window
 
 To exit the program, press the 'q' key. This will close the video window and terminate the script.
 
+## output:
+
+https://github.com/sahithyajadala/experiment/assets/169046012/b75f4f64-9212-4b80-8474-2ac4559baf5e
+
 
 
 
